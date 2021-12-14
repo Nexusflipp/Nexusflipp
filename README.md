@@ -1,10 +1,11 @@
 # Weclome To My Portfolio
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&theme=aura">
+
 <img align="right" width="47%" src="https://activity-graph.herokuapp.com/graph?username=nexusflipp&theme=redical">
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&theme=aura">
-
-
+<img align="right" width="47%" src="https://activity-graph.herokuapp.com/graph?username=nexusflipp&theme=redical">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
 <br />
 
 ## Languages I use
