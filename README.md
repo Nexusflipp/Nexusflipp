@@ -1,9 +1,9 @@
 # Weclome To My Portfolio
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp">
 
-<img align="left"  src="https://ionicabizau.github.io/github-profile-languages/api.html?nexusflipp">
+
 
 
 <br />
