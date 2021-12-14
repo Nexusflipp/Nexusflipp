@@ -3,7 +3,6 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&langs_count=6&count_private=true&layout=compact&theme=aura">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=nexusflipp&theme=redical">
 <br />
 
 ## Languages Und Tools I Use
