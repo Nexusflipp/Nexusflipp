@@ -7,7 +7,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=nexusflipp&theme=redical">
 <br />
 
-## Languages I use
+## Languages Und Tools I Use
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
