@@ -1,7 +1,7 @@
 # Weclome To My Portfolio
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&langs_count=6&count_private=true&layout=compact&theme=aura">
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&langs_count=6&count_private=true&layout=compact&theme=aura">
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusflipp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=nexusflipp&theme=redical">
