@@ -1,8 +1,9 @@
 # Weclome To My Portfolio
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
+<img align="right" width="47%" src="https://activity-graph.herokuapp.com/graph?username=nexusflipp&theme=redical">
 <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&theme=aura">
-<img align="left" width="47%" src="https://activity-graph.herokuapp.com/graph?username=nexusflipp&theme=redical">
+
 
 <br />
 
