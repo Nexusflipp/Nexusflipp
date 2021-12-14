@@ -16,10 +16,10 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> </a> 
 </p>
 
-<br />
+
 <br />
 
-### Connect with me:
+## Contact me
 
 
 
