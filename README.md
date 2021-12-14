@@ -22,6 +22,7 @@
 ## Contact Me
 
 ![Discord](https://img.shields.io/badge/https://discord.gg/9UXzUsvPFt%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![discord](https://discordapp.com/api/guilds/583423779988832445/widget.png?style=shield)](https://discord.gg/gJVGg7u)
 ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
