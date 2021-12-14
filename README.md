@@ -6,12 +6,16 @@
 
 ## Statistics
 
+<br />
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&langs_count=6&count_private=true&layout=compact&theme=aura">
 
 <br />
 
 ## Contact Me
+
+<br />
 
 <p align="left"> 
     <a href="https://discord.gg/9UXzUsvPFt" target="_blank"> <img src="https://img.shields.io/badge/Nexu$flipp-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> </a>
@@ -25,6 +29,8 @@
 <br />
 
 ## Languages I Use
+    
+<br />
 
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
@@ -38,6 +44,8 @@
 <br />
 
 ## Operating Systems
+
+<br />
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
