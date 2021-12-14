@@ -5,7 +5,7 @@
 
 <br />
 
-## Languages Und Tools I Use
+## Languages I Use
 
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
