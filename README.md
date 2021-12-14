@@ -19,6 +19,8 @@
 <img align="left" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 
+<br />
+<br />
 
 ### Connect with me:
 
