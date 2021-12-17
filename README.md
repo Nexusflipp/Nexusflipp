@@ -2,7 +2,6 @@
 
 <img width="1100" height="300" src="https://github.com/Nexusflipp/Nexusflipp/blob/main/header-logo.gif">
 
-<br />
 
 ## Statistics
 
