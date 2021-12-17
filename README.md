@@ -1,6 +1,6 @@
 # Weclome To My Portfolio
 
-<img width="1100" height="400" src="https://github.com/Nexusflipp/Nexusflipp/blob/main/Main-Comp.gif">
+<img width="1100" height="300" src="https://github.com/Nexusflipp/Nexusflipp/blob/main/Main-Comp.gif">
 
 <br />
 
