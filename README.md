@@ -32,6 +32,7 @@
     <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
     <a href="https://www.lua.org/" target="_blank"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/> </a> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> </a> 
+    <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> </a>
 </p>
 
 <br />
