@@ -7,8 +7,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusflipp&langs_count=6&count_private=true&layout=compact&theme=aura">
-
-<br /><br />
+<br />
 
 ## Contact Me
 
@@ -18,8 +17,6 @@
     <a href="https://twitter.com/Nexusflipp" target="_blank"> <img src="https://img.shields.io/badge/Nexusflipp-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> 
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 </p>
-
-
 
 <br />
 
