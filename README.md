@@ -2,7 +2,6 @@
 
 <img width="1100" height="300" src="https://github.com/Nexusflipp/Nexusflipp/blob/main/header-logo.gif">
 
-
 ## Statistics
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nexusflipp&show_icons=true&theme=aura">
@@ -19,7 +18,6 @@
         
 </p>
     
-
 <br />
 
 ## Languages I Use
