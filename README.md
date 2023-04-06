@@ -1,4 +1,4 @@
-# Weclome To My Portfolio
+# Welcome To My Portfolio
 
 <img width="1100" height="300" src="https://github.com/Nexusflipp/Nexusflipp/blob/main/header-logo.gif">
 
