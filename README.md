@@ -12,7 +12,7 @@
 
 <p align="left"> 
     <a href="https://discord.gg/9UXzUsvPFt" target="_blank"> <img src="https://img.shields.io/badge/Nexu$flipp-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> </a>
-    <a href="https://www.youtube.com/channel/UC0A0uGN-9ctDUIcCvROxhPA" target="_blank"> <img src="https://img.shields.io/badge/Nexu$flipp-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> </a>
+    <a href="https://www.youtube.com/@nexuflipp" target="_blank"> <img src="https://img.shields.io/badge/Nexu$flipp-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> </a>
     <a href="https://twitter.com/Nexusflipp" target="_blank"> <img src="https://img.shields.io/badge/Nexusflipp-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> 
     <a href="https://nexusflipp.dev/contact" target="_blank"> <img src="https://img.shields.io/badge/WEBSITE-Contact-green">
         
