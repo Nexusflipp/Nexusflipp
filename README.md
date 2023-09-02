@@ -32,7 +32,7 @@
     <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> </a>
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src=" 	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> </a>
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> </a>
 </p>
 
 <br />
